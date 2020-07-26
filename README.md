@@ -51,8 +51,8 @@ python inference.py
 
 ---
 
-- Efficient K-NN for Playlist Continuation [https://eprints.sztaki.hu/9560/1/Kelen_1_30347064_ny.pdf]()
+- [Efficient K-NN for Playlist Continuation](https://eprints.sztaki.hu/9560/1/Kelen_1_30347064_ny.pdf)
 
-- 제목으로 태그 맞추기 with Khaiii, Colab [https://arena.kakao.com/forum/topics/226]()
+- [제목으로 태그 맞추기 with Khaiii, Colab](https://arena.kakao.com/forum/topics/226)
 
-- Melon Playlist Continuation 대회 데이터 전처리 & EDA [https://arena.kakao.com/forum/topics/191]()
+- [Melon Playlist Continuation 대회 데이터 전처리 & EDA](https://arena.kakao.com/forum/topics/191)
